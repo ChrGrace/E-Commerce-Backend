@@ -32,4 +32,5 @@ npm run start
 ## License: 
 Please refer to the LICENSE in the repo. The content might differ slightly
 
-
+## Credits:
+Once again, Taskinoz
